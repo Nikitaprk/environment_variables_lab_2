@@ -1,0 +1,27 @@
+argument 0 : ./lab5                                                                           
+environment:XDG_SESSION_ID=2802                                                               
+environment:SSH_AGENT_PID=831                                                                 
+environment:TERM=xterm-256color                                                               
+environment:SHELL=/bin/bash                                                                   
+environment:COCKPIT_REMOTE_PEER=88.201.141.179                                                
+environment:XDG_SESSION_CLASS=user                                                            
+environment:JRE_HOME=/opt/jdk1.7.0_71/jre                                                     
+environment:USER=student                                                                      
+environment:LS_COLORS=rs=0:di=38;5;27:ln=38;5;51:mh=44;38;5;15:pi=40;38;5;11:so=38;5;13:do=38$
+environment:SSH_AUTH_SOCK=/tmp/ssh-ZxXbyVjSx7LV/agent.830                                     
+environment:PATH=/usr/local/abc-unix:/sbin:/bin:/usr/sbin:/usr/bin:/opt/jdk1.7.0_71/bin:/opt/$
+environment:PWD=/home/student/work2_nar/bin                                                   
+environment:GIO_USE_VFS=local                                                                 
+environment:JAVA_HOME=/opt/jdk1.7.0_71                                                        
+environment:LANG=ru_RU.UTF-8                                                                  
+environment:GSETTINGS_BACKEND=memory                                                          
+environment:SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass                                
+environment:SHLVL=1                                                                           
+environment:HOME=/home/student                                                                
+environment:GIO_USE_PROXY_RESOLVER=dummy                                                      
+environment:XDG_DATA_DIRS=/home/student/.local/share/flatpak/exports/share:/var/lib/flatpak/e$
+environment:DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-YRLG2ZwetD,guid=c1845687f3a5f991$
+environment:LESSOPEN=||/usr/bin/lesspipe.sh %s                                                
+environment:XDG_RUNTIME_DIR=/run/user/1001                                                    
+environment:_=./lab5                                                                          
+environment:OLDPWD=/home/student/work2_nar    
